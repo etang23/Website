@@ -1,2 +1,2 @@
 # Website
-My personal website; I think it's kind of good.
+My personal website!
